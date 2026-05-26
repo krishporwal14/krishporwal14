@@ -95,7 +95,7 @@ I'm a developer who gravitates toward the hard parts — systems programming, ke
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-porwal-257ab0233)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishporwal14)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishporwal16@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Y2uBr5Mq3jrnREKFk5sonv9ywh0wUFJK/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1Y2uBr5Mq3jrnREKFk5sonv9ywh0wUFJK/view?usp=sharing](https://drive.google.com/file/d/1cQOT_W-hVd6xaobX1QzBKAQVDNKiUJRO/view?usp=sharing))
 
 <br/>
 
